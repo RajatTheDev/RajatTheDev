@@ -4,10 +4,15 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌱 &nbsp; I’m currently learning Web Application Development
+
 - 🎓 &nbsp; Studying B.Tech in Computer Science
-- 👯 Looking to collaborate on: **Open-source projects related to C/C++, JavaScript**
-- 💬 Ask me about **Javascript, C++ or Python**
-- 📫 How to reach me **rajatthedev@gmail.com**
+
+- 👯 &nbsp; Looking to collaborate on: **Open-source projects related to C/C++, JavaScript**
+
+- 💬 &nbsp; Ask me about **Javascript, C++ or Python**
+
+- 📫 &nbsp; How to reach me **rajatthedev@gmail.com**
+
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -30,4 +35,4 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatthedev&layout=compact&text_color=daf7dc&bg_color=151515)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatthedev&layout=compact&text_color=daf7dc&bg_color=151515)
