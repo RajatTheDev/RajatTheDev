@@ -1,13 +1,13 @@
 <h1 align="center"> Hey there! I'm Rajat Maini</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatthedev&label=Profile%20views&color=#4B2DA1&style=for-the-badge" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatthedev&label=Profile%20views&color=4B2DA1&style=for-the-badge" alt="profile views" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning Web Application Development.
-
-- 🎓 &nbsp; Studying B.Tech in Computer Science.
-- 💼 &nbsp; Front-end web developer.
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🌱 &nbsp; I’m currently learning Web Application Development
+- 🎓 &nbsp; Studying B.Tech in Computer Science
+- 👯 Looking to collaborate on: **Open-source projects related to C/C++, JavaScript**
+- 💬 Ask me about **Javascript, C++ or Python**
+- 📫 How to reach me **rajatthedev@gmail.com**
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3> 🤝🏻 Connect with Me </h3>
