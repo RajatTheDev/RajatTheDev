@@ -7,9 +7,9 @@
 
 - 🎓 &nbsp; Studying B.Tech in Computer Science
 
-- 👯 &nbsp; Looking to collaborate on: **Open-source projects related to C/C++, JavaScript**
+- 👯 &nbsp; Looking to collaborate on: **Open-source projects related to JavaScript & Python**
 
-- 💬 &nbsp; Ask me about **Javascript, C++ or Python**
+- 💬 &nbsp; Ask me about **Javascript or Python**
 
 - 📫 &nbsp; How to reach me **rajatthedev@gmail.com**
 
