@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Final B.Tech in Computer Science
+- 🎓 &nbsp; Studying B.Tech in Computer Science
 
 - 👯 &nbsp; Looking to collaborate on **Open-source projects related to JavaScript & Python**
 
