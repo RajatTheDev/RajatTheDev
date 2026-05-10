@@ -3,25 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning Web Application Development
+- 🎓 &nbsp; Final B.Tech in Computer Science
 
-- 🎓 &nbsp; Studying B.Tech in Computer Science
-
-- 👯 &nbsp; Looking to collaborate on: **Open-source projects related to JavaScript & Python**
+- 👯 &nbsp; Looking to collaborate on **Open-source projects related to JavaScript & Python**
 
 - 💬 &nbsp; Ask me about **Javascript or Python**
 
-- 📫 &nbsp; How to reach me **rajatthedev@gmail.com**
+- 📫 &nbsp; How to reach me: **rajatthedev@gmail.com**
 
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="https://leetcode.com/u/RajatTheDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RajatTheDev" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/rajatmaini" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuws45ZRSHpYvP37VDSKulGMs6N8mswekHZfC4F8UihQ&s" alt="rajatmaini" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rajatmaini01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajatmaini01" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/rajatmi8zj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajatmi8zj" height="30" width="40" /></a>
 <a href="https://x.com/RajatCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RajatCodes" height="30" width="40" /></a>
 </p>
 
